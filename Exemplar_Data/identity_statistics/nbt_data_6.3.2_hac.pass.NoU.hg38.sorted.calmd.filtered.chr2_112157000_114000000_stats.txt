@@ -1,0 +1,11 @@
+Alignment Length Mean:                               1595.3234
+Alignment Length Median:                                1446.5
+Read Length N50:                                          2163
+Align Length N50:                                          348
+Read Identity Mean:                                     0.8985
+Read Identity Median:                                   0.9078
+Matches      per 1kb of reference bases:              920.7747
+Mismatches   per 1kb of reference bases:               24.6747
+Deletions    per 1kb of reference bases:               54.5507
+Insertions   per 1kb of reference bases:               23.4224
+Skipped      per 1kb of reference bases:            14296.3955
