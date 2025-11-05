@@ -22,7 +22,7 @@ RNA002_vs_RNA004/
 │   ├── example RNA004 bam
 │   ├── example Modkit file
 │   ├── example Pysamstats file
-│   └──  example M6anet file
+│   └── example M6anet file
 ├── Figure_1/      # Comparison of RNA002 and RNA004 direct RNA sequencing performance.
 │   ├── figure1a.ipynb
 │   ├── figure1b.ipynb
